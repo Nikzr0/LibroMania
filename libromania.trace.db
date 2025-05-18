@@ -1,0 +1,21 @@
+2025-04-28 12:15:31.544988+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2025-04-28 12:15:34.288774+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+INSERT INTO books (title, author, year, isbn) VALUES (?, ?, ?, ?) [42104-224]
+2025-04-28 12:16:16.842492+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2025-04-28 12:16:28.379491+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2025-04-28 12:19:29.669408+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+INSERT INTO books (title, author, year, isbn) VALUES (?, ?, ?, ?) [42104-224]
+2025-04-28 12:19:32.573336+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
+2025-04-28 12:19:34.945062+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found (this database is empty); SQL statement:
+SELECT * FROM books [42104-224]
